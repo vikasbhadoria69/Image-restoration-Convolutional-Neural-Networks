@@ -1,6 +1,4 @@
-Image restoration using CNN. 
-The in detail project report is given here and can be studied in the pdf above.
-The basic idea is to restore the content of an image with noise and captured in low light intensity, using CNN. 
-The theory and outputs can be seen in the project report. 
-There are total 3 code blocks. One is for adding noise to image. Second is the observations made by using Vgg19.
-Third the the final code which includes model building and training. Final output predictions can be seen in this code.
+# Image restoration by using Convolutional Neural Networks 
+* Used different techniques for adding noise to the image and using OpenCV library to reduce the brightness so as to create a perfect dataset of distorted image.
+* Used the vgg19 CNN model as a part of transfer learning technique to see how effective CNN is to extract the original content from a distorted image.
+* Built my own CNN model and trained it on a huge dataset to efficiently restore distorted images.
