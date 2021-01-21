@@ -92,3 +92,6 @@ an image. The reason might be due to presence of salt pepper noise and might pro
 better results in case of real-time low light image.***
 
 
+**The entire project report is uploaded above as a pdf _Image_Restoration_CNN_Project_ kindly go through the PDF if a detailed information about the project is needed**
+### Thank you.
+
