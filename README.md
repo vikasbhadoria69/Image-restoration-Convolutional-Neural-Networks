@@ -33,6 +33,7 @@ corresponding distorted images, noise has been added to the real images and then
 the OpenCV library brightness of images are reduced.
 The noise added here is “Salt & Pepper” noise as different approaches were tried along with
 gaussian noise, poisson noise, speckle but the best results were with “Salt & Pepper”.
+
 ![alt text](https://github.com/vikasbhadoria69/Image-restoration-Convolutional-Neural-Networks/blob/master/Output%20images/Rangoli1.png)![alt text](https://github.com/vikasbhadoria69/Image-restoration-Convolutional-Neural-Networks/blob/master/Output%20images/Rangoli_noise.png)
 
 - ***Issues with Phase 1: NO***
